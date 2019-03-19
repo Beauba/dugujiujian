@@ -6,6 +6,8 @@ public class dugu {
 		System.out.println("贼厉害");
 		System.out.println("贼厉害!!!");
 		System.out.println("贼几把厉害!!!");
+		System.out.println("贼几把厉害!!!!!!!");
+		
 	}
 
 }
